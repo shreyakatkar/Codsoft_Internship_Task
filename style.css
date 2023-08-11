@@ -1,0 +1,42 @@
+body {
+    background-color: #00ffbf;
+    margin: 20%;
+}
+
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+
+img {
+    display: inline-block;
+    width: 100%;
+}
+
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+}
+
+#tribute-data {
+    background-color: rgba(43, 97, 247, 0.466);
+    box-shadow: 20px 20px 20px #98FB98;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+
+h1.title-SavitribaiPhule {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+#tribute-link {
+    text-decoration: none;
+    color: black;
+}
